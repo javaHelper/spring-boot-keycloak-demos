@@ -20,3 +20,5 @@ Then click on clients
 
 <img width="1215" alt="Screenshot 2022-07-26 at 3 02 25 PM" src="https://user-images.githubusercontent.com/54174687/180974362-481b25bc-fa67-4d69-964a-e4b5db96fa8b.png">
 <img width="869" alt="Screenshot 2022-07-26 at 3 02 39 PM" src="https://user-images.githubusercontent.com/54174687/180974396-d97bf193-bc8b-4ebe-98ae-45976c431e17.png">
+
+- Create User prateek and populate required information and set the password permanent.

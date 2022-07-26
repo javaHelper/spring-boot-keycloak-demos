@@ -38,3 +38,7 @@ spring.security.oauth2.client.registration.oauth2-demo-thymeleaf-client.redirect
 
 spring.security.oauth2.client.provider.oauth2-demo-thymeleaf-client.issuer-uri=http://localhost:8080/realms/oauth2-demo-realm
 ```
+
+http://localhost:8090/home you should see below
+
+<img width="408" alt="Screenshot 2022-07-26 at 3 07 28 PM" src="https://user-images.githubusercontent.com/54174687/180975329-71091a12-e9aa-4a50-9add-c75422f24bb6.png">

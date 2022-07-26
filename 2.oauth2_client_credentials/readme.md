@@ -1,5 +1,7 @@
 # OAuth2 Client Credentials:
 
+<img width="1090" alt="Screenshot 2022-07-26 at 4 50 20 PM" src="https://user-images.githubusercontent.com/54174687/180994152-d5718f89-80df-47cf-bbf9-9fe797dc1037.png">
+
 <img width="872" alt="Screenshot 2022-07-26 at 4 43 20 PM" src="https://user-images.githubusercontent.com/54174687/180993174-510d6f18-f869-492c-860f-4b7b1666947f.png">
 
 <img width="858" alt="Screenshot 2022-07-26 at 4 43 44 PM" src="https://user-images.githubusercontent.com/54174687/180993190-1be1e0d5-a1f4-4a12-9832-f715e2148565.png">

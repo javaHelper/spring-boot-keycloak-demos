@@ -22,3 +22,19 @@ Then click on clients
 <img width="869" alt="Screenshot 2022-07-26 at 3 02 39 PM" src="https://user-images.githubusercontent.com/54174687/180974396-d97bf193-bc8b-4ebe-98ae-45976c431e17.png">
 
 - Create User prateek and populate required information and set the password permanent.
+
+- URL to get more info - http://localhost:8080/realms/oauth2-demo-realm/.well-known/openid-configuration
+
+application.properties
+
+```properties
+server.port=8090
+
+spring.security.oauth2.client.registration.oauth2-demo-thymeleaf-client.client-id=oauth2-demo-thymeleaf-client
+spring.security.oauth2.client.registration.oauth2-demo-thymeleaf-client.client-secret=U50tLvpHlrS8PH30ymCXFV45lXNHlLDG
+spring.security.oauth2.client.registration.oauth2-demo-thymeleaf-client.scope=openid, profile, roles,email,address
+spring.security.oauth2.client.registration.oauth2-demo-thymeleaf-client.authorization-grant-type=authorization_code
+spring.security.oauth2.client.registration.oauth2-demo-thymeleaf-client.redirect-uri=http://localhost:8090/login/oauth2/code/oauth2-demo-thymeleaf-client
+
+spring.security.oauth2.client.provider.oauth2-demo-thymeleaf-client.issuer-uri=http://localhost:8080/realms/oauth2-demo-realm
+```
